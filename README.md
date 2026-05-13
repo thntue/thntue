@@ -19,17 +19,17 @@ I’m interested in software development, web development, databases, and proble
 **Tools:** Git, GitHub, VS Code  
 **Core:** Object-Oriented Programming, Database Design, Problem Solving
 
-## 📌 Featured Projects
+## 📌 Current Learning
 
-### Student Management System
-A simple system for managing student information such as adding, updating, deleting, and searching records.
+I am currently building my foundation in programming, web development, and databases.  
+My upcoming projects will focus on Java, SQL, HTML, CSS, and JavaScript.
 
-**Tech used:** Java, SQL
+## 🚧 Upcoming Projects
 
-### Personal Portfolio Website
-A personal website to introduce myself, my skills, and my projects.
-
-**Tech used:** HTML, CSS, JavaScript
+- Personal Portfolio Website
+- Student Management System
+- Java OOP Practice
+- Database SQL Practice
 
 ### Library Management System
 A basic application for managing books, users, and borrowing records.
