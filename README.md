@@ -5,7 +5,7 @@ I’m interested in software development, web development, databases, and proble
 
 ## 🚀 About me
 
-- 🎓 Software Engineering Student at FPT University
+- 🎓 Software Engineering Student at FPT University.
 - 💻 Learning Java, JavaScript, SQL, and Web Development
 - 🧠 Interested in Software Engineering, OOP, Databases, and Algorithms
 - 🥈 City-level Silver Prize in Informatics during primary school
@@ -15,7 +15,7 @@ I’m interested in software development, web development, databases, and proble
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, SQL  
-**Web:** HTML, CSS  
+**Web:** HTML, CSS, C
 **Tools:** Git, GitHub, VS Code  
 **Core:** Object-Oriented Programming, Database Design, Problem Solving
 
