@@ -16,7 +16,7 @@ I’m interested in software development, web development, databases, and proble
 
 **Languages:** Java, JavaScript, SQL  
 **Web:** HTML, CSS, C
-**Tools:** Git, GitHub, VS Code  
+**Tools:** Github, Git, VS Code  
 **Core:** Object-Oriented Programming, Database Design, Problem Solving
 
 ## 📌 Current Learning
